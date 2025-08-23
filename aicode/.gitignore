@@ -1,0 +1,15 @@
+# Node dependencies
+frontend/node_modules
+
+# Python virtual environment
+backend/venv
+
+# Environment variables
+.env
+frontend/.env
+backend/.env
+
+# IDE and OS files
+.vscode/
+__pycache__/
+.DS_Store
